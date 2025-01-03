@@ -1,0 +1,3 @@
+Elma,Meyve,10,50
+Peynir,Süt Ürünü,50,20
+Ekmek,Fırın,5,100
